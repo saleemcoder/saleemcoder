@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-	<title> Muhammad Saleem </title>
-  </head>
-  <body>
-	<h2>
-		Welcome to my profile
-	</h2>
-  </body>
-</html>
-
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saleemcoder)](https://github.com/anuraghazra/github-readme-stats)
 
