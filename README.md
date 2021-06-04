@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.com/saleemcoder/saleemcoder/blob/main/images/hello-world.jpg" width="100%">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saleemcoder)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
