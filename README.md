@@ -1,19 +1,9 @@
 <img src="https://github.com/saleemcoder/saleemcoder/blob/main/images/hello-world.jpg" width="100%" />
-<a href="https://saleem.pk">Portfolio</a>
+<a href='#0'><img align='left' src="https://github.com/manamil-coder/manamil-coder/blob/main/images/linkedin.png" height='18px'/></a>
+<a href='#0'><img align='left' src="https://github.com/manamil-coder/manamil-coder/blob/main/images/facebook.png" height='18px'/></a>
+<a href='#0'><img align='left' src="https://github.com/manamil-coder/manamil-coder/blob/main/images/skype.png" height='18px'/></a>
+<a href='#0'><img align='left' src="https://github.com/manamil-coder/manamil-coder/blob/main/images/twitter.png" height='18px'/></a>
+<a href='#0'><img align='left' src="https://github.com/manamil-coder/manamil-coder/blob/main/images/whatsapp.png" height='18px'/></a>
+<a href='#0'><img align='left' src="https://github.com/manamil-coder/manamil-coder/blob/main/images/website.png" height='18px'/></a>
+<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saleemcoder)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**saleemcoder/saleemcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
