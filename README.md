@@ -23,7 +23,7 @@ Wellcome to my Github Profile. I am a full Stack Developer working from past 10 
 - 🎨 &nbsp; I do create cool logos in my free time 
 - 📝 &nbsp; Checkout my [portfolio](https://saleem.pk/)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
-- ♟ &nbsp; We could have a friendly Chess match along with tech discussion :) 
+- ♟ &nbsp; We could have a friendly Chess match at [Chess.com](https://www.chess.com/member/saleempk) along with tech discussion :) 
 
 
 <br/>
