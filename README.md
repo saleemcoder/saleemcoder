@@ -5,8 +5,8 @@
 <a href='https://twitter.com/saleemcoder' target="_blank"><img align='left' src="https://github.com/saleemcoder/saleemcoder/blob/main/images/twitter.png" height='18px'/></a>
 <a href='https://api.whatsapp.com/send?phone=923227819152' target="_blank"><img align='left' src="https://github.com/saleemcoder/saleemcoder/blob/main/images/whatsapp.png" height='18px'/></a>
 
-<br>
-Well come to my Github Profile. I am a full Stack Developer working from past 10 years with differernt orgnizations and as a freelancer. I love exploring new tech stack and leveraging them to build cool stuffs
+<br/>
+Wellcome to my Github Profile. I am a full Stack Developer working from past 10 years with differernt orgnizations and as a freelancer. I love exploring new tech stack and leveraging them to build cool stuffs
 
 <br/>
 <br/>
@@ -21,7 +21,7 @@ Well come to my Github Profile. I am a full Stack Developer working from past 10
 - 🌐 &nbsp; Already created 300+ websites
 - 👉 &nbsp; Learning Flutter and DevOps stuff
 - 🎨 &nbsp; I do create cool logos in my free time 
-- 📝 &nbsp; Checkout my [portfolio](https://twh360.com/portfolio-web)
+- 📝 &nbsp; Checkout my [portfolio](https://saleem.pk/)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - ♟ &nbsp; We could have a friendly Chess match along with tech discussion :) 
 
@@ -42,6 +42,9 @@ Well come to my Github Profile. I am a full Stack Developer working from past 10
 <img align="left" src="https://github.com/saleemcoder/saleemcoder/blob/main/images/languages-icons/postree.png" alt="Postree" height="42px"/>
 <img align="left" src="https://github.com/saleemcoder/saleemcoder/blob/main/images/languages-icons/apple-icon.png" alt="IOS APP" height="42px"/>
 <img align="left" src="https://github.com/saleemcoder/saleemcoder/blob/main/images/languages-icons/android.png" alt="Android" height="42px"/>
+
+<br/><br/>
+
 <img align="left" src="https://github.com/saleemcoder/saleemcoder/blob/main/images/languages-icons/github.png" alt="Github" height="42px"/>
 <img align="left" src="https://github.com/saleemcoder/saleemcoder/blob/main/images/languages-icons/dock.png" alt="Dock" height="42px"/>
 <img align="left" src="https://github.com/saleemcoder/saleemcoder/blob/main/images/languages-icons/vscode.png" alt="Vscode" height="42px"/>
