@@ -6,7 +6,7 @@
 <a href='https://api.whatsapp.com/send?phone=923227819152' target="_blank"><img align='left' src="https://github.com/saleemcoder/saleemcoder/blob/main/images/whatsapp.png" height='18px'/></a>
 
 <br/>
-Wellcome to my Github Profile. I am a full Stack Developer working from past 10 years with differernt orgnizations and as a freelancer. I love exploring new tech stack and leveraging them to build cool stuffs
+Wellcome to my Github Profile. I am a full Stack Developer working from past 12 years with differernt orgnizations and as a freelancer. I love exploring new tech stack and leveraging them to build cool stuffs
 
 <br/>
 <br/>
@@ -17,12 +17,12 @@ Wellcome to my Github Profile. I am a full Stack Developer working from past 10 
 
 - 👨‍💻 &nbsp; I’m currently working with <a href="https://www.crmbase.io/">**CRMBase**</a>
 - 💻 &nbsp; I’m managening <a href="https://twh360.com/">**TechWare House**</a>
-- 🌏 &nbsp; Checkout my <a href="https://www.fiverr.com/saleemwebs/">**Fiverr profile**</a> with 700+ possitive reviws
+- 🌏 &nbsp; Check out my <a href="https://www.fiverr.com/saleemwebs/">**Fiverr profile**</a> with 700+ positive reviews
 - 🌐 &nbsp; Already created 300+ websites
 - 👉 &nbsp; Learning Flutter and DevOps stuff
 - 🎨 &nbsp; I do create cool logos in my free time 
 - 📝 &nbsp; Checkout my [portfolio](https://saleem.pk/)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help
+- 💬 &nbsp; Ask me anything about tech related, I will be happy to help
 - ♟ &nbsp; We could have a friendly Chess match at [Chess.com](https://www.chess.com/member/saleempk) along with tech discussion :) 
 
 
