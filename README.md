@@ -15,8 +15,7 @@ Wellcome to my Github Profile. I am a full Stack Developer working from past 15 
 
 ### <img alt="GIF" src="https://github.com/saleemcoder/saleemcoder/blob/main/images/Developer.gif" width="30px"/> More About Me
 
-- 👨‍💻 &nbsp; I’m currently working with <a href="https://www.crmbase.io/">**CRMBase**</a>
-- 💻 &nbsp; I’m managening <a href="https://twh360.com/">**TechWare House**</a>
+- 👨‍💻 &nbsp; I’m working as CEO at <a href="https://twh360.com/">**TechWare House**</a>
 - 🌏 &nbsp; Check out my <a href="https://www.fiverr.com/saleemwebs/">**Fiverr profile**</a> with 700+ positive reviews
 - 🌐 &nbsp; Already created 300+ websites
 - 👉 &nbsp; Learning Flutter and DevOps stuff
